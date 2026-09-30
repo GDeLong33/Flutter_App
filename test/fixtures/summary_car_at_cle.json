@@ -1,0 +1,3213 @@
+{
+ "boxscore": {
+  "teams": [
+   {
+    "team": {
+     "id": "29",
+     "abbreviation": "CAR",
+     "displayName": "Carolina Panthers"
+    },
+    "statistics": [
+     {
+      "name": "firstDowns",
+      "displayValue": "24",
+      "value": 24.0,
+      "label": "1st Downs"
+     },
+     {
+      "name": "firstDownsPassing",
+      "displayValue": "17",
+      "value": 17.0,
+      "label": "Passing 1st downs"
+     },
+     {
+      "name": "firstDownsRushing",
+      "displayValue": "4",
+      "value": 4.0,
+      "label": "Rushing 1st downs"
+     },
+     {
+      "name": "firstDownsPenalty",
+      "displayValue": "3",
+      "value": 3.0,
+      "label": "1st downs from penalties"
+     },
+     {
+      "name": "thirdDownEff",
+      "displayValue": "4-15",
+      "value": 0.2666666667,
+      "label": "3rd down efficiency"
+     },
+     {
+      "name": "fourthDownEff",
+      "displayValue": "0-3",
+      "value": 0,
+      "label": "4th down efficiency"
+     },
+     {
+      "name": "totalOffensivePlays",
+      "displayValue": "74",
+      "value": 74.0,
+      "label": "Total Plays"
+     },
+     {
+      "name": "totalYards",
+      "displayValue": "360",
+      "value": "-",
+      "label": "Total Yards"
+     },
+     {
+      "name": "yardsPerPlay",
+      "displayValue": "4.9",
+      "value": 4.8648648649,
+      "label": "Yards per Play"
+     },
+     {
+      "name": "totalDrives",
+      "displayValue": "12",
+      "value": 12.0,
+      "label": "Total Drives"
+     },
+     {
+      "name": "netPassingYards",
+      "displayValue": "262",
+      "value": 262.0,
+      "label": "Passing"
+     },
+     {
+      "name": "completionAttempts",
+      "displayValue": "26/48",
+      "value": "-",
+      "label": "Comp/Att"
+     },
+     {
+      "name": "yardsPerPass",
+      "displayValue": "5.1",
+      "value": 5.137254901960785,
+      "label": "Yards per pass"
+     },
+     {
+      "name": "interceptions",
+      "displayValue": "1",
+      "value": 1.0,
+      "label": "Interceptions thrown"
+     },
+     {
+      "name": "sacksYardsLost",
+      "displayValue": "3-29",
+      "value": "-",
+      "label": "Sacks-Yards Lost"
+     },
+     {
+      "name": "rushingYards",
+      "displayValue": "98",
+      "value": 98.0,
+      "label": "Rushing"
+     },
+     {
+      "name": "rushingAttempts",
+      "displayValue": "23",
+      "value": 23.0,
+      "label": "Rushing Attempts"
+     },
+     {
+      "name": "yardsPerRushAttempt",
+      "displayValue": "4.3",
+      "value": 4.261,
+      "label": "Yards per rush"
+     },
+     {
+      "name": "redZoneAttempts",
+      "displayValue": "1-3",
+      "value": 0.3333333333333333,
+      "label": "Red Zone (Made-Att)"
+     },
+     {
+      "name": "totalPenaltiesYards",
+      "displayValue": "7-63",
+      "value": "-",
+      "label": "Penalties"
+     },
+     {
+      "name": "turnovers",
+      "displayValue": "1",
+      "value": "-",
+      "label": "Turnovers"
+     },
+     {
+      "name": "fumblesLost",
+      "displayValue": "0",
+      "value": 0.0,
+      "label": "Fumbles lost"
+     },
+     {
+      "name": "interceptions",
+      "displayValue": "1",
+      "value": 1.0,
+      "label": "Interceptions thrown"
+     },
+     {
+      "name": "defensiveTouchdowns",
+      "displayValue": "0",
+      "value": 0.0,
+      "label": "Defensive / Special Teams TDs"
+     },
+     {
+      "name": "possessionTime",
+      "displayValue": "29:53",
+      "value": 1793,
+      "label": "Possession"
+     }
+    ],
+    "displayOrder": 1,
+    "homeAway": "away"
+   },
+   {
+    "team": {
+     "id": "5",
+     "abbreviation": "CLE",
+     "displayName": "Cleveland Browns"
+    },
+    "statistics": [
+     {
+      "name": "firstDowns",
+      "displayValue": "17",
+      "value": 17.0,
+      "label": "1st Downs"
+     },
+     {
+      "name": "firstDownsPassing",
+      "displayValue": "7",
+      "value": 7.0,
+      "label": "Passing 1st downs"
+     },
+     {
+      "name": "firstDownsRushing",
+      "displayValue": "7",
+      "value": 7.0,
+      "label": "Rushing 1st downs"
+     },
+     {
+      "name": "firstDownsPenalty",
+      "displayValue": "3",
+      "value": 3.0,
+      "label": "1st downs from penalties"
+     },
+     {
+      "name": "thirdDownEff",
+      "displayValue": "5-15",
+      "value": 0.3333333333,
+      "label": "3rd down efficiency"
+     },
+     {
+      "name": "fourthDownEff",
+      "displayValue": "2-3",
+      "value": 0.6666666667,
+      "label": "4th down efficiency"
+     },
+     {
+      "name": "totalOffensivePlays",
+      "displayValue": "63",
+      "value": 63.0,
+      "label": "Total Plays"
+     },
+     {
+      "name": "totalYards",
+      "displayValue": "259",
+      "value": "-",
+      "label": "Total Yards"
+     },
+     {
+      "name": "yardsPerPlay",
+      "displayValue": "4.1",
+      "value": 4.1111111111,
+      "label": "Yards per Play"
+     },
+     {
+      "name": "totalDrives",
+      "displayValue": "13",
+      "value": 13.0,
+      "label": "Total Drives"
+     },
+     {
+      "name": "netPassingYards",
+      "displayValue": "127",
+      "value": 127.0,
+      "label": "Passing"
+     },
+     {
+      "name": "completionAttempts",
+      "displayValue": "17/31",
+      "value": "-",
+      "label": "Comp/Att"
+     },
+     {
+      "name": "yardsPerPass",
+      "displayValue": "3.8",
+      "value": 3.8484848484848486,
+      "label": "Yards per pass"
+     },
+     {
+      "name": "interceptions",
+      "displayValue": "0",
+      "value": 0.0,
+      "label": "Interceptions thrown"
+     },
+     {
+      "name": "sacksYardsLost",
+      "displayValue": "2-17",
+      "value": "-",
+      "label": "Sacks-Yards Lost"
+     },
+     {
+      "name": "rushingYards",
+      "displayValue": "132",
+      "value": 132.0,
+      "label": "Rushing"
+     },
+     {
+      "name": "rushingAttempts",
+      "displayValue": "30",
+      "value": 30.0,
+      "label": "Rushing Attempts"
+     },
+     {
+      "name": "yardsPerRushAttempt",
+      "displayValue": "4.4",
+      "value": 4.4,
+      "label": "Yards per rush"
+     },
+     {
+      "name": "redZoneAttempts",
+      "displayValue": "2-3",
+      "value": 0.6666666666666666,
+      "label": "Red Zone (Made-Att)"
+     },
+     {
+      "name": "totalPenaltiesYards",
+      "displayValue": "12-84",
+      "value": "-",
+      "label": "Penalties"
+     },
+     {
+      "name": "turnovers",
+      "displayValue": "1",
+      "value": "-",
+      "label": "Turnovers"
+     },
+     {
+      "name": "fumblesLost",
+      "displayValue": "1",
+      "value": 1.0,
+      "label": "Fumbles lost"
+     },
+     {
+      "name": "interceptions",
+      "displayValue": "0",
+      "value": 0.0,
+      "label": "Interceptions thrown"
+     },
+     {
+      "name": "defensiveTouchdowns",
+      "displayValue": "0",
+      "value": 0.0,
+      "label": "Defensive / Special Teams TDs"
+     },
+     {
+      "name": "possessionTime",
+      "displayValue": "30:07",
+      "value": 1807,
+      "label": "Possession"
+     }
+    ],
+    "displayOrder": 2,
+    "homeAway": "home"
+   }
+  ],
+  "players": [
+   {
+    "team": {
+     "id": "29",
+     "abbreviation": "CAR",
+     "displayName": "Carolina Panthers"
+    },
+    "statistics": [
+     {
+      "name": "passing",
+      "keys": [
+       "completions/passingAttempts",
+       "passingYards",
+       "yardsPerPassAttempt",
+       "passingTouchdowns",
+       "interceptions",
+       "sacks-sackYardsLost",
+       "adjQBR",
+       "QBRating"
+      ],
+      "text": "Carolina Passing",
+      "labels": [
+       "C/ATT",
+       "YDS",
+       "AVG",
+       "TD",
+       "INT",
+       "SACKS",
+       "QBR",
+       "RTG"
+      ],
+      "descriptions": [
+       "Completions/Attempts",
+       "Yards",
+       "Yards Per Pass Attempt",
+       "Touchdowns",
+       "Interceptions",
+       "Sacks",
+       "Adjusted QBR",
+       "Passer Rating"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4685720",
+         "displayName": "Bryce Young",
+         "firstName": "Bryce",
+         "lastName": "Young"
+        },
+        "stats": [
+         "26/48",
+         "291",
+         "6.1",
+         "1",
+         "1",
+         "3-29",
+         "38.2",
+         "70.7"
+        ]
+       }
+      ],
+      "totals": [
+       "26/48",
+       "262",
+       "6.1",
+       "1",
+       "1",
+       "3-29",
+       "--",
+       "70.7"
+      ]
+     },
+     {
+      "name": "rushing",
+      "keys": [
+       "rushingAttempts",
+       "rushingYards",
+       "yardsPerRushAttempt",
+       "rushingTouchdowns",
+       "longRushing"
+      ],
+      "text": "Carolina Rushing",
+      "labels": [
+       "CAR",
+       "YDS",
+       "AVG",
+       "TD",
+       "LONG"
+      ],
+      "descriptions": [
+       "Rushing Attempts",
+       "Yards",
+       "Yards Per Rushing Attempt",
+       "Touchdowns",
+       "Longest Run"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4241416",
+         "displayName": "Chuba Hubbard",
+         "firstName": "Chuba",
+         "lastName": "Hubbard"
+        },
+        "stats": [
+         "19",
+         "82",
+         "4.3",
+         "0",
+         "16"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4239934",
+         "displayName": "AJ Dillon",
+         "firstName": "AJ",
+         "lastName": "Dillon"
+        },
+        "stats": [
+         "4",
+         "16",
+         "4.0",
+         "0",
+         "11"
+        ]
+       }
+      ],
+      "totals": [
+       "23",
+       "98",
+       "4.3",
+       "0",
+       "16"
+      ]
+     },
+     {
+      "name": "receiving",
+      "keys": [
+       "receptions",
+       "receivingYards",
+       "yardsPerReception",
+       "receivingTouchdowns",
+       "longReception",
+       "receivingTargets"
+      ],
+      "text": "Carolina Receiving",
+      "labels": [
+       "REC",
+       "YDS",
+       "AVG",
+       "TD",
+       "LONG",
+       "TGTS"
+      ],
+      "descriptions": [
+       "Receptions",
+       "Yards",
+       "Yards Per Reception",
+       "Touchdowns",
+       "Longest Reception",
+       "Receiving Targets"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4360763",
+         "displayName": "Brycen Tremayne",
+         "firstName": "Brycen",
+         "lastName": "Tremayne"
+        },
+        "stats": [
+         "4",
+         "83",
+         "20.8",
+         "0",
+         "31",
+         "6"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "2576925",
+         "displayName": "Darren Waller",
+         "firstName": "Darren",
+         "lastName": "Waller"
+        },
+        "stats": [
+         "5",
+         "51",
+         "10.2",
+         "0",
+         "14",
+         "8"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4372780",
+         "displayName": "Tommy Tremble",
+         "firstName": "Tommy",
+         "lastName": "Tremble"
+        },
+        "stats": [
+         "3",
+         "41",
+         "13.7",
+         "0",
+         "17",
+         "4"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4683243",
+         "displayName": "Mitchell Evans",
+         "firstName": "Mitchell",
+         "lastName": "Evans"
+        },
+        "stats": [
+         "3",
+         "36",
+         "12.0",
+         "0",
+         "19",
+         "3"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4241416",
+         "displayName": "Chuba Hubbard",
+         "firstName": "Chuba",
+         "lastName": "Hubbard"
+        },
+        "stats": [
+         "4",
+         "28",
+         "7.0",
+         "0",
+         "30",
+         "4"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4567096",
+         "displayName": "John Metchie III",
+         "firstName": "John",
+         "lastName": "Metchie III"
+        },
+        "stats": [
+         "2",
+         "19",
+         "9.5",
+         "1",
+         "11",
+         "5"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4695883",
+         "displayName": "Jalen Coker",
+         "firstName": "Jalen",
+         "lastName": "Coker"
+        },
+        "stats": [
+         "2",
+         "18",
+         "9.0",
+         "0",
+         "13",
+         "4"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4685472",
+         "displayName": "Tetairoa McMillan",
+         "firstName": "Tetairoa",
+         "lastName": "McMillan"
+        },
+        "stats": [
+         "2",
+         "17",
+         "8.5",
+         "0",
+         "12",
+         "5"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4212909",
+         "displayName": "David Moore",
+         "firstName": "David",
+         "lastName": "Moore"
+        },
+        "stats": [
+         "0",
+         "0",
+         "0.0",
+         "0",
+         "0",
+         "2"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4239934",
+         "displayName": "AJ Dillon",
+         "firstName": "AJ",
+         "lastName": "Dillon"
+        },
+        "stats": [
+         "1",
+         "-2",
+         "-2.0",
+         "0",
+         "-2",
+         "1"
+        ]
+       }
+      ],
+      "totals": [
+       "26",
+       "291",
+       "11.2",
+       "1",
+       "31",
+       "42"
+      ]
+     },
+     {
+      "name": "fumbles",
+      "keys": [
+       "fumbles",
+       "fumblesLost",
+       "fumblesRecovered"
+      ],
+      "text": "Carolina Fumbles",
+      "labels": [
+       "FUM",
+       "LOST",
+       "REC"
+      ],
+      "descriptions": [
+       "Fumbles",
+       "Fumbles Lost",
+       "Fumbles Recovered"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4714157",
+         "displayName": "Thomas Incoom",
+         "firstName": "Thomas",
+         "lastName": "Incoom"
+        },
+        "stats": [
+         "0",
+         "0",
+         "1"
+        ]
+       }
+      ],
+      "totals": [
+       "0",
+       "0",
+       "1"
+      ]
+     },
+     {
+      "name": "defensive",
+      "keys": [
+       "totalTackles",
+       "soloTackles",
+       "sacks",
+       "tacklesForLoss",
+       "passesDefended",
+       "QBHits",
+       "defensiveTouchdowns"
+      ],
+      "text": "Carolina Defense",
+      "labels": [
+       "TOT",
+       "SOLO",
+       "SACKS",
+       "TFL",
+       "PD",
+       "QB HTS",
+       "TD"
+      ],
+      "descriptions": [
+       "Tackles",
+       "Solo Tackles",
+       "Sacks",
+       "Tackles For Loss",
+       "Passes Defended",
+       "Quarterback Hits",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4429110",
+         "displayName": "Lathan Ransom",
+         "firstName": "Lathan",
+         "lastName": "Ransom"
+        },
+        "stats": [
+         "8",
+         "5",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "5151083",
+         "displayName": "Will Lee III",
+         "firstName": "Will",
+         "lastName": "Lee III"
+        },
+        "stats": [
+         "6",
+         "3",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4035232",
+         "displayName": "Tyrel Dodson",
+         "firstName": "Tyrel",
+         "lastName": "Dodson"
+        },
+        "stats": [
+         "6",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4035495",
+         "displayName": "Derrick Brown",
+         "firstName": "Derrick",
+         "lastName": "Brown"
+        },
+        "stats": [
+         "5",
+         "5",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4566384",
+         "displayName": "Zakee Wheatley",
+         "firstName": "Zakee",
+         "lastName": "Wheatley"
+        },
+        "stats": [
+         "5",
+         "4",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4362487",
+         "displayName": "Tre'von Moehrig",
+         "firstName": "Tre'von",
+         "lastName": "Moehrig"
+        },
+        "stats": [
+         "4",
+         "2",
+         "0",
+         "1",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3117253",
+         "displayName": "Bobby Okereke",
+         "firstName": "Bobby",
+         "lastName": "Okereke"
+        },
+        "stats": [
+         "4",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4244607",
+         "displayName": "Akayleb Evans",
+         "firstName": "Akayleb",
+         "lastName": "Evans"
+        },
+        "stats": [
+         "4",
+         "1",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4431551",
+         "displayName": "Lee Hunter",
+         "firstName": "Lee",
+         "lastName": "Hunter"
+        },
+        "stats": [
+         "4",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4429166",
+         "displayName": "Princely Umanmielen",
+         "firstName": "Princely",
+         "lastName": "Umanmielen"
+        },
+        "stats": [
+         "3",
+         "2",
+         "1",
+         "1",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4036063",
+         "displayName": "Patrick Jones II",
+         "firstName": "Patrick",
+         "lastName": "Jones II"
+        },
+        "stats": [
+         "3",
+         "2",
+         "0",
+         "1",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4428125",
+         "displayName": "Maema Njongmeta",
+         "firstName": "Maema",
+         "lastName": "Njongmeta"
+        },
+        "stats": [
+         "3",
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4362847",
+         "displayName": "Jaycee Horn",
+         "firstName": "Jaycee",
+         "lastName": "Horn"
+        },
+        "stats": [
+         "2",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4242975",
+         "displayName": "Jaelan Phillips",
+         "firstName": "Jaelan",
+         "lastName": "Phillips"
+        },
+        "stats": [
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4431077",
+         "displayName": "TeRah Edwards",
+         "firstName": "TeRah",
+         "lastName": "Edwards"
+        },
+        "stats": [
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3917016",
+         "displayName": "Trevis Gipson",
+         "firstName": "Trevis",
+         "lastName": "Gipson"
+        },
+        "stats": [
+         "1",
+         "1",
+         "1",
+         "1",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3917853",
+         "displayName": "Mike Jackson",
+         "firstName": "Mike",
+         "lastName": "Jackson"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4035462",
+         "displayName": "Isaiah Simmons",
+         "firstName": "Isaiah",
+         "lastName": "Simmons"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4212909",
+         "displayName": "David Moore",
+         "firstName": "David",
+         "lastName": "Moore"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4714157",
+         "displayName": "Thomas Incoom",
+         "firstName": "Thomas",
+         "lastName": "Incoom"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4034948",
+         "displayName": "Feleipe Franks",
+         "firstName": "Feleipe",
+         "lastName": "Franks"
+        },
+        "stats": [
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4372518",
+         "displayName": "Bobby Brown III",
+         "firstName": "Bobby",
+         "lastName": "Brown III"
+        },
+        "stats": [
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4602967",
+         "displayName": "Aaron Hall",
+         "firstName": "Aaron",
+         "lastName": "Hall"
+        },
+        "stats": [
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4697636",
+         "displayName": "Chau Smith-Wade",
+         "firstName": "Chau",
+         "lastName": "Smith-Wade"
+        },
+        "stats": [
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4875592",
+         "displayName": "Jackson Kuwatch",
+         "firstName": "Jackson",
+         "lastName": "Kuwatch"
+        },
+        "stats": [
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "71",
+       "35",
+       "2",
+       "4",
+       "4",
+       "6",
+       "0"
+      ]
+     },
+     {
+      "name": "interceptions",
+      "keys": [
+       "interceptions",
+       "interceptionYards",
+       "interceptionTouchdowns"
+      ],
+      "text": "Carolina Interceptions",
+      "labels": [
+       "INT",
+       "YDS",
+       "TD"
+      ],
+      "descriptions": [
+       "Interceptions",
+       "Yards",
+       "Touchdowns"
+      ],
+      "athletes": [],
+      "totals": []
+     },
+     {
+      "name": "kickReturns",
+      "keys": [
+       "kickReturns",
+       "kickReturnYards",
+       "yardsPerKickReturn",
+       "longKickReturn",
+       "kickReturnTouchdowns"
+      ],
+      "text": "Carolina Kick Returns",
+      "labels": [
+       "NO",
+       "YDS",
+       "AVG",
+       "LONG",
+       "TD"
+      ],
+      "descriptions": [
+       "Kick Returns",
+       "Yards",
+       "Yards Per Kick Return",
+       "Longest Kick Return",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4212909",
+         "displayName": "David Moore",
+         "firstName": "David",
+         "lastName": "Moore"
+        },
+        "stats": [
+         "3",
+         "59",
+         "19.7",
+         "22",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4709392",
+         "displayName": "Anthony Tyus III",
+         "firstName": "Anthony",
+         "lastName": "Tyus III"
+        },
+        "stats": [
+         "2",
+         "47",
+         "23.5",
+         "25",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "5",
+       "106",
+       "21.2",
+       "25",
+       "0"
+      ]
+     },
+     {
+      "name": "puntReturns",
+      "keys": [
+       "puntReturns",
+       "puntReturnYards",
+       "yardsPerPuntReturn",
+       "longPuntReturn",
+       "puntReturnTouchdowns"
+      ],
+      "text": "Carolina Punt Returns",
+      "labels": [
+       "NO",
+       "YDS",
+       "AVG",
+       "LONG",
+       "TD"
+      ],
+      "descriptions": [
+       "Punt Returns",
+       "Yards",
+       "Yards Per Punt Return",
+       "Longest Punt Return",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4212909",
+         "displayName": "David Moore",
+         "firstName": "David",
+         "lastName": "Moore"
+        },
+        "stats": [
+         "2",
+         "14",
+         "7.0",
+         "8",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "2",
+       "14",
+       "7.0",
+       "8",
+       "0"
+      ]
+     },
+     {
+      "name": "kicking",
+      "keys": [
+       "fieldGoalsMade/fieldGoalAttempts",
+       "fieldGoalPct",
+       "longFieldGoalMade",
+       "extraPointsMade/extraPointAttempts",
+       "totalKickingPoints"
+      ],
+      "text": "Carolina Kicking",
+      "labels": [
+       "FG",
+       "PCT",
+       "LONG",
+       "XP",
+       "PTS"
+      ],
+      "descriptions": [
+       "Field Goals Made/Attempts",
+       "Field Goal Percentage",
+       "Longest Field Goal Made",
+       "Extra Points Made/Attempts",
+       "Kicking Points"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4568263",
+         "displayName": "Ryan Fitzgerald",
+         "firstName": "Ryan",
+         "lastName": "Fitzgerald"
+        },
+        "stats": [
+         "4/4",
+         "100.0",
+         "53",
+         "0/0",
+         "12"
+        ]
+       }
+      ],
+      "totals": [
+       "4/4",
+       "100.0",
+       "53",
+       "0/0",
+       "12"
+      ]
+     },
+     {
+      "name": "punting",
+      "keys": [
+       "punts",
+       "puntYards",
+       "grossAvgPuntYards",
+       "touchbacks",
+       "puntsInside20",
+       "longPunt"
+      ],
+      "text": "Carolina Punting",
+      "labels": [
+       "NO",
+       "YDS",
+       "AVG",
+       "TB",
+       "In 20",
+       "LONG"
+      ],
+      "descriptions": [
+       "Punts",
+       "Yards",
+       "Average Punt Yards",
+       "Touchbacks",
+       "Punts Inside 20",
+       "Longest Punt"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "15928",
+         "displayName": "Sam Martin",
+         "firstName": "Sam",
+         "lastName": "Martin"
+        },
+        "stats": [
+         "3",
+         "139",
+         "46.3",
+         "0",
+         "3",
+         "52"
+        ]
+       }
+      ],
+      "totals": [
+       "3",
+       "139",
+       "46.3",
+       "0",
+       "3",
+       "52"
+      ]
+     }
+    ],
+    "displayOrder": 1
+   },
+   {
+    "team": {
+     "id": "5",
+     "abbreviation": "CLE",
+     "displayName": "Cleveland Browns"
+    },
+    "statistics": [
+     {
+      "name": "passing",
+      "keys": [
+       "completions/passingAttempts",
+       "passingYards",
+       "yardsPerPassAttempt",
+       "passingTouchdowns",
+       "interceptions",
+       "sacks-sackYardsLost",
+       "adjQBR",
+       "QBRating"
+      ],
+      "text": "Cleveland Passing",
+      "labels": [
+       "C/ATT",
+       "YDS",
+       "AVG",
+       "TD",
+       "INT",
+       "SACKS",
+       "QBR",
+       "RTG"
+      ],
+      "descriptions": [
+       "Completions/Attempts",
+       "Yards",
+       "Yards Per Pass Attempt",
+       "Touchdowns",
+       "Interceptions",
+       "Sacks",
+       "Adjusted QBR",
+       "Passer Rating"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "3122840",
+         "displayName": "Deshaun Watson",
+         "firstName": "Deshaun",
+         "lastName": "Watson"
+        },
+        "stats": [
+         "16/30",
+         "144",
+         "4.8",
+         "2",
+         "0",
+         "2-17",
+         "60.4",
+         "88.8"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4432762",
+         "displayName": "Shedeur Sanders",
+         "firstName": "Shedeur",
+         "lastName": "Sanders"
+        },
+        "stats": [
+         "1/1",
+         "0",
+         "0.0",
+         "0",
+         "0",
+         "0-0",
+         "5.2",
+         "79.2"
+        ]
+       }
+      ],
+      "totals": [
+       "17/31",
+       "127",
+       "4.6",
+       "2",
+       "0",
+       "2-17",
+       "--",
+       "88.6"
+      ]
+     },
+     {
+      "name": "rushing",
+      "keys": [
+       "rushingAttempts",
+       "rushingYards",
+       "yardsPerRushAttempt",
+       "rushingTouchdowns",
+       "longRushing"
+      ],
+      "text": "Cleveland Rushing",
+      "labels": [
+       "CAR",
+       "YDS",
+       "AVG",
+       "TD",
+       "LONG"
+      ],
+      "descriptions": [
+       "Rushing Attempts",
+       "Yards",
+       "Yards Per Rushing Attempt",
+       "Touchdowns",
+       "Longest Run"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4685702",
+         "displayName": "Quinshon Judkins",
+         "firstName": "Quinshon",
+         "lastName": "Judkins"
+        },
+        "stats": [
+         "18",
+         "70",
+         "3.9",
+         "0",
+         "11"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3122840",
+         "displayName": "Deshaun Watson",
+         "firstName": "Deshaun",
+         "lastName": "Watson"
+        },
+        "stats": [
+         "11",
+         "45",
+         "4.1",
+         "0",
+         "21"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4601080",
+         "displayName": "Raheim Sanders",
+         "firstName": "Raheim",
+         "lastName": "Sanders"
+        },
+        "stats": [
+         "1",
+         "17",
+         "17.0",
+         "0",
+         "17"
+        ]
+       }
+      ],
+      "totals": [
+       "30",
+       "132",
+       "4.4",
+       "0",
+       "21"
+      ]
+     },
+     {
+      "name": "receiving",
+      "keys": [
+       "receptions",
+       "receivingYards",
+       "yardsPerReception",
+       "receivingTouchdowns",
+       "longReception",
+       "receivingTargets"
+      ],
+      "text": "Cleveland Receiving",
+      "labels": [
+       "REC",
+       "YDS",
+       "AVG",
+       "TD",
+       "LONG",
+       "TGTS"
+      ],
+      "descriptions": [
+       "Receptions",
+       "Yards",
+       "Yards Per Reception",
+       "Touchdowns",
+       "Longest Reception",
+       "Receiving Targets"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "5083076",
+         "displayName": "Harold Fannin Jr.",
+         "firstName": "Harold",
+         "lastName": "Fannin Jr."
+        },
+        "stats": [
+         "7",
+         "51",
+         "7.3",
+         "2",
+         "14",
+         "9"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4832800",
+         "displayName": "Denzel Boston",
+         "firstName": "Denzel",
+         "lastName": "Boston"
+        },
+        "stats": [
+         "2",
+         "41",
+         "20.5",
+         "0",
+         "28",
+         "4"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4601080",
+         "displayName": "Raheim Sanders",
+         "firstName": "Raheim",
+         "lastName": "Sanders"
+        },
+        "stats": [
+         "4",
+         "34",
+         "8.5",
+         "0",
+         "10",
+         "5"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4685702",
+         "displayName": "Quinshon Judkins",
+         "firstName": "Quinshon",
+         "lastName": "Judkins"
+        },
+        "stats": [
+         "2",
+         "9",
+         "4.5",
+         "0",
+         "9",
+         "2"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4870653",
+         "displayName": "KC Concepcion",
+         "firstName": "KC",
+         "lastName": "Concepcion"
+        },
+        "stats": [
+         "2",
+         "9",
+         "4.5",
+         "0",
+         "5",
+         "9"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "2515270",
+         "displayName": "Michael Burton",
+         "firstName": "Michael",
+         "lastName": "Burton"
+        },
+        "stats": [
+         "0",
+         "0",
+         "0.0",
+         "0",
+         "0",
+         "1"
+        ]
+       }
+      ],
+      "totals": [
+       "17",
+       "144",
+       "8.5",
+       "2",
+       "28",
+       "30"
+      ]
+     },
+     {
+      "name": "fumbles",
+      "keys": [
+       "fumbles",
+       "fumblesLost",
+       "fumblesRecovered"
+      ],
+      "text": "Cleveland Fumbles",
+      "labels": [
+       "FUM",
+       "LOST",
+       "REC"
+      ],
+      "descriptions": [
+       "Fumbles",
+       "Fumbles Lost",
+       "Fumbles Recovered"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4613104",
+         "displayName": "Malachi Corley",
+         "firstName": "Malachi",
+         "lastName": "Corley"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "1",
+       "1",
+       "0"
+      ]
+     },
+     {
+      "name": "defensive",
+      "keys": [
+       "totalTackles",
+       "soloTackles",
+       "sacks",
+       "tacklesForLoss",
+       "passesDefended",
+       "QBHits",
+       "defensiveTouchdowns"
+      ],
+      "text": "Cleveland Defense",
+      "labels": [
+       "TOT",
+       "SOLO",
+       "SACKS",
+       "TFL",
+       "PD",
+       "QB HTS",
+       "TD"
+      ],
+      "descriptions": [
+       "Tackles",
+       "Solo Tackles",
+       "Sacks",
+       "Tackles For Loss",
+       "Passes Defended",
+       "Quarterback Hits",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "3110565",
+         "displayName": "Quincy Williams",
+         "firstName": "Quincy",
+         "lastName": "Williams"
+        },
+        "stats": [
+         "9",
+         "5",
+         "0",
+         "1",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4360677",
+         "displayName": "Mekhi Blackmon",
+         "firstName": "Mekhi",
+         "lastName": "Blackmon"
+        },
+        "stats": [
+         "8",
+         "6",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4569620",
+         "displayName": "Ronnie Hickman",
+         "firstName": "Ronnie",
+         "lastName": "Hickman"
+        },
+        "stats": [
+         "8",
+         "3",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4873232",
+         "displayName": "Mason Graham",
+         "firstName": "Mason",
+         "lastName": "Graham"
+        },
+        "stats": [
+         "7",
+         "4",
+         "2",
+         "3",
+         "0",
+         "2",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4876017",
+         "displayName": "Carson Schwesinger",
+         "firstName": "Carson",
+         "lastName": "Schwesinger"
+        },
+        "stats": [
+         "6",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4837186",
+         "displayName": "Emmanuel McNeil-Warren",
+         "firstName": "Emmanuel",
+         "lastName": "McNeil-Warren"
+        },
+        "stats": [
+         "5",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4242208",
+         "displayName": "Grant Delpit",
+         "firstName": "Grant",
+         "lastName": "Delpit"
+        },
+        "stats": [
+         "4",
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3915535",
+         "displayName": "Denzel Ward",
+         "firstName": "Denzel",
+         "lastName": "Ward"
+        },
+        "stats": [
+         "3",
+         "3",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4427963",
+         "displayName": "Isaiah McGuire",
+         "firstName": "Isaiah",
+         "lastName": "McGuire"
+        },
+        "stats": [
+         "3",
+         "2",
+         "1",
+         "2",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4578085",
+         "displayName": "Jared Verse",
+         "firstName": "Jared",
+         "lastName": "Verse"
+        },
+        "stats": [
+         "3",
+         "2",
+         "0",
+         "0",
+         "0",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4600415",
+         "displayName": "Mike Hall Jr.",
+         "firstName": "Mike",
+         "lastName": "Hall Jr."
+        },
+        "stats": [
+         "3",
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4613104",
+         "displayName": "Malachi Corley",
+         "firstName": "Malachi",
+         "lastName": "Corley"
+        },
+        "stats": [
+         "3",
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4695783",
+         "displayName": "Myles Harden",
+         "firstName": "Myles",
+         "lastName": "Harden"
+        },
+        "stats": [
+         "3",
+         "2",
+         "0",
+         "0",
+         "1",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3040471",
+         "displayName": "Maliek Collins",
+         "firstName": "Maliek",
+         "lastName": "Collins"
+        },
+        "stats": [
+         "3",
+         "0",
+         "0",
+         "0",
+         "0",
+         "2",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "5085888",
+         "displayName": "Easton Mascarenas-Arnold",
+         "firstName": "Easton",
+         "lastName": "Mascarenas-Arnold"
+        },
+        "stats": [
+         "3",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4567242",
+         "displayName": "Sam Williams",
+         "firstName": "Sam",
+         "lastName": "Williams"
+        },
+        "stats": [
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4605792",
+         "displayName": "Adin Huntington",
+         "firstName": "Adin",
+         "lastName": "Huntington"
+        },
+        "stats": [
+         "2",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "3115336",
+         "displayName": "Derek Barnett",
+         "firstName": "Derek",
+         "lastName": "Barnett"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0",
+         "0",
+         "1",
+         "1",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4035505",
+         "displayName": "Daniel Thomas",
+         "firstName": "Daniel",
+         "lastName": "Thomas"
+        },
+        "stats": [
+         "1",
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4241424",
+         "displayName": "Tylan Wallace",
+         "firstName": "Tylan",
+         "lastName": "Wallace"
+        },
+        "stats": [
+         "1",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "78",
+       "36",
+       "3",
+       "6",
+       "5",
+       "8",
+       "0"
+      ]
+     },
+     {
+      "name": "interceptions",
+      "keys": [
+       "interceptions",
+       "interceptionYards",
+       "interceptionTouchdowns"
+      ],
+      "text": "Cleveland Interceptions",
+      "labels": [
+       "INT",
+       "YDS",
+       "TD"
+      ],
+      "descriptions": [
+       "Interceptions",
+       "Yards",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4569620",
+         "displayName": "Ronnie Hickman",
+         "firstName": "Ronnie",
+         "lastName": "Hickman"
+        },
+        "stats": [
+         "1",
+         "-2",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "1",
+       "-2",
+       "0"
+      ]
+     },
+     {
+      "name": "kickReturns",
+      "keys": [
+       "kickReturns",
+       "kickReturnYards",
+       "yardsPerKickReturn",
+       "longKickReturn",
+       "kickReturnTouchdowns"
+      ],
+      "text": "Cleveland Kick Returns",
+      "labels": [
+       "NO",
+       "YDS",
+       "AVG",
+       "LONG",
+       "TD"
+      ],
+      "descriptions": [
+       "Kick Returns",
+       "Yards",
+       "Yards Per Kick Return",
+       "Longest Kick Return",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4613104",
+         "displayName": "Malachi Corley",
+         "firstName": "Malachi",
+         "lastName": "Corley"
+        },
+        "stats": [
+         "4",
+         "104",
+         "26.0",
+         "28",
+         "0"
+        ]
+       },
+       {
+        "athlete": {
+         "id": "4601080",
+         "displayName": "Raheim Sanders",
+         "firstName": "Raheim",
+         "lastName": "Sanders"
+        },
+        "stats": [
+         "2",
+         "47",
+         "23.5",
+         "26",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "6",
+       "151",
+       "25.2",
+       "28",
+       "0"
+      ]
+     },
+     {
+      "name": "puntReturns",
+      "keys": [
+       "puntReturns",
+       "puntReturnYards",
+       "yardsPerPuntReturn",
+       "longPuntReturn",
+       "puntReturnTouchdowns"
+      ],
+      "text": "Cleveland Punt Returns",
+      "labels": [
+       "NO",
+       "YDS",
+       "AVG",
+       "LONG",
+       "TD"
+      ],
+      "descriptions": [
+       "Punt Returns",
+       "Yards",
+       "Yards Per Punt Return",
+       "Longest Punt Return",
+       "Touchdowns"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4870653",
+         "displayName": "KC Concepcion",
+         "firstName": "KC",
+         "lastName": "Concepcion"
+        },
+        "stats": [
+         "1",
+         "1",
+         "1.0",
+         "1",
+         "0"
+        ]
+       }
+      ],
+      "totals": [
+       "1",
+       "1",
+       "1.0",
+       "1",
+       "0"
+      ]
+     },
+     {
+      "name": "kicking",
+      "keys": [
+       "fieldGoalsMade/fieldGoalAttempts",
+       "fieldGoalPct",
+       "longFieldGoalMade",
+       "extraPointsMade/extraPointAttempts",
+       "totalKickingPoints"
+      ],
+      "text": "Cleveland Kicking",
+      "labels": [
+       "FG",
+       "PCT",
+       "LONG",
+       "XP",
+       "PTS"
+      ],
+      "descriptions": [
+       "Field Goals Made/Attempts",
+       "Field Goal Percentage",
+       "Longest Field Goal Made",
+       "Extra Points Made/Attempts",
+       "Kicking Points"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4258620",
+         "displayName": "Andre Szmyt",
+         "firstName": "Andre",
+         "lastName": "Szmyt"
+        },
+        "stats": [
+         "2/2",
+         "100.0",
+         "48",
+         "1/1",
+         "7"
+        ]
+       }
+      ],
+      "totals": [
+       "2/2",
+       "100.0",
+       "48",
+       "1/1",
+       "7"
+      ]
+     },
+     {
+      "name": "punting",
+      "keys": [
+       "punts",
+       "puntYards",
+       "grossAvgPuntYards",
+       "touchbacks",
+       "puntsInside20",
+       "longPunt"
+      ],
+      "text": "Cleveland Punting",
+      "labels": [
+       "NO",
+       "YDS",
+       "AVG",
+       "TB",
+       "In 20",
+       "LONG"
+      ],
+      "descriptions": [
+       "Punts",
+       "Yards",
+       "Average Punt Yards",
+       "Touchbacks",
+       "Punts Inside 20",
+       "Longest Punt"
+      ],
+      "athletes": [
+       {
+        "athlete": {
+         "id": "4039396",
+         "displayName": "Corey Bojorquez",
+         "firstName": "Corey",
+         "lastName": "Bojorquez"
+        },
+        "stats": [
+         "5",
+         "243",
+         "48.6",
+         "0",
+         "3",
+         "62"
+        ]
+       }
+      ],
+      "totals": [
+       "5",
+       "243",
+       "48.6",
+       "0",
+       "3",
+       "62"
+      ]
+     }
+    ],
+    "displayOrder": 2
+   }
+  ]
+ },
+ "scoringPlays": [
+  {
+   "id": "4018729491527",
+   "type": {
+    "id": "59",
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+   },
+   "text": "Andre Szmyt 48 Yd Field Goal",
+   "awayScore": 0,
+   "homeScore": 3,
+   "period": {
+    "number": 2
+   },
+   "clock": {
+    "value": 343.0,
+    "displayValue": "5:43"
+   },
+   "team": {
+    "id": "5",
+    "uid": "s:20~l:28~t:5",
+    "displayName": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/cle",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "field-goal",
+    "displayName": "Field Goal",
+    "abbreviation": "FG"
+   }
+  },
+  {
+   "id": "4018729491839",
+   "type": {
+    "id": "67",
+    "text": "Passing Touchdown",
+    "abbreviation": "TD"
+   },
+   "text": "Harold Fannin Jr. 2 Yd pass from Deshaun Watson (Andre Szmyt Kick)",
+   "awayScore": 0,
+   "homeScore": 10,
+   "period": {
+    "number": 2
+   },
+   "clock": {
+    "value": 97.0,
+    "displayValue": "1:37"
+   },
+   "team": {
+    "id": "5",
+    "uid": "s:20~l:28~t:5",
+    "displayName": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/cle",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "touchdown",
+    "displayName": "Touchdown",
+    "abbreviation": "TD"
+   }
+  },
+  {
+   "id": "4018729492202",
+   "type": {
+    "id": "59",
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+   },
+   "text": "Ryan Fitzgerald 35 Yd Field Goal ",
+   "awayScore": 3,
+   "homeScore": 10,
+   "period": {
+    "number": 2
+   },
+   "clock": {
+    "value": 27.0,
+    "displayValue": "0:27"
+   },
+   "team": {
+    "id": "29",
+    "uid": "s:20~l:28~t:29",
+    "displayName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:46Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "field-goal",
+    "displayName": "Field Goal",
+    "abbreviation": "FG"
+   }
+  },
+  {
+   "id": "4018729492453",
+   "type": {
+    "id": "59",
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+   },
+   "text": "Ryan Fitzgerald 41 Yd Field Goal",
+   "awayScore": 6,
+   "homeScore": 10,
+   "period": {
+    "number": 3
+   },
+   "clock": {
+    "value": 802.0,
+    "displayValue": "13:22"
+   },
+   "team": {
+    "id": "29",
+    "uid": "s:20~l:28~t:29",
+    "displayName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:46Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "field-goal",
+    "displayName": "Field Goal",
+    "abbreviation": "FG"
+   }
+  },
+  {
+   "id": "4018729493121",
+   "type": {
+    "id": "59",
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+   },
+   "text": "Ryan Fitzgerald 53 Yd Field Goal",
+   "awayScore": 9,
+   "homeScore": 10,
+   "period": {
+    "number": 3
+   },
+   "clock": {
+    "value": 197.0,
+    "displayValue": "3:17"
+   },
+   "team": {
+    "id": "29",
+    "uid": "s:20~l:28~t:29",
+    "displayName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:46Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "field-goal",
+    "displayName": "Field Goal",
+    "abbreviation": "FG"
+   }
+  },
+  {
+   "id": "4018729493562",
+   "type": {
+    "id": "59",
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+   },
+   "text": "Ryan Fitzgerald 37 Yd Field Goal",
+   "awayScore": 12,
+   "homeScore": 10,
+   "period": {
+    "number": 4
+   },
+   "clock": {
+    "value": 701.0,
+    "displayValue": "11:41"
+   },
+   "team": {
+    "id": "29",
+    "uid": "s:20~l:28~t:29",
+    "displayName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:46Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "field-goal",
+    "displayName": "Field Goal",
+    "abbreviation": "FG"
+   }
+  },
+  {
+   "id": "4018729493751",
+   "type": {
+    "id": "59",
+    "text": "Field Goal Good",
+    "abbreviation": "FG"
+   },
+   "text": "Andre Szmyt 45 Yd Field Goal",
+   "awayScore": 12,
+   "homeScore": 13,
+   "period": {
+    "number": 4
+   },
+   "clock": {
+    "value": 450.0,
+    "displayValue": "7:30"
+   },
+   "team": {
+    "id": "5",
+    "uid": "s:20~l:28~t:5",
+    "displayName": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/cle",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "field-goal",
+    "displayName": "Field Goal",
+    "abbreviation": "FG"
+   }
+  },
+  {
+   "id": "4018729493922",
+   "type": {
+    "id": "67",
+    "text": "Passing Touchdown",
+    "abbreviation": "TD"
+   },
+   "text": "John Metchie III 8 Yd pass from Bryce Young (Two-Point Run Conversion Failed)",
+   "awayScore": 18,
+   "homeScore": 13,
+   "period": {
+    "number": 4
+   },
+   "clock": {
+    "value": 265.0,
+    "displayValue": "4:25"
+   },
+   "team": {
+    "id": "29",
+    "uid": "s:20~l:28~t:29",
+    "displayName": "Carolina Panthers",
+    "abbreviation": "CAR",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/car/carolina-panthers",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/car",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:46Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/car.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:45Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "touchdown",
+    "displayName": "Touchdown",
+    "abbreviation": "TD"
+   }
+  },
+  {
+   "id": "4018729494259",
+   "type": {
+    "id": "67",
+    "text": "Passing Touchdown",
+    "abbreviation": "TD"
+   },
+   "text": "Harold Fannin Jr. 14 Yd pass from Deshaun Watson (Deshaun Watson Pass to Denzel Boston for Two-Point Conversion)",
+   "awayScore": 18,
+   "homeScore": 21,
+   "period": {
+    "number": 4
+   },
+   "clock": {
+    "value": 108.0,
+    "displayValue": "1:48"
+   },
+   "team": {
+    "id": "5",
+    "uid": "s:20~l:28~t:5",
+    "displayName": "Cleveland Browns",
+    "abbreviation": "CLE",
+    "links": [
+     {
+      "href": "https://www.espn.com/nfl/team/_/name/cle/cleveland-browns",
+      "text": "Clubhouse"
+     },
+     {
+      "href": "https://www.espn.com/nfl/team/schedule/_/name/cle",
+      "text": "Schedule"
+     }
+    ],
+    "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+    "logos": [
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "default"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     },
+     {
+      "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cle.png",
+      "width": 500,
+      "height": 500,
+      "alt": "",
+      "rel": [
+       "full",
+       "scoreboard",
+       "dark"
+      ],
+      "lastUpdated": "2024-06-25T18:47Z"
+     }
+    ]
+   },
+   "scoringType": {
+    "name": "touchdown",
+    "displayName": "Touchdown",
+    "abbreviation": "TD"
+   }
+  }
+ ],
+ "header": {
+  "competitions": [
+   {
+    "competitors": [
+     {
+      "homeAway": "home",
+      "score": "21",
+      "team": {
+       "id": "5",
+       "abbreviation": "CLE",
+       "displayName": "Cleveland Browns"
+      }
+     },
+     {
+      "homeAway": "away",
+      "score": "18",
+      "team": {
+       "id": "29",
+       "abbreviation": "CAR",
+       "displayName": "Carolina Panthers"
+      }
+     }
+    ],
+    "status": {
+     "type": {
+      "id": "3",
+      "name": "STATUS_FINAL",
+      "state": "post",
+      "completed": true,
+      "description": "Final",
+      "detail": "Final",
+      "shortDetail": "Final"
+     },
+     "isTBDFlex": false
+    }
+   }
+  ]
+ }
+}
